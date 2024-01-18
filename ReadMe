@@ -1,0 +1,3 @@
+Codigo escrito durante estagio.
+Identifica arquivos baseando-se nas extensões adicionadas (.pdf, .txt, .jpg) e depois agrupa os arquivos, e verifica sua data de modificação, por fim agrupa os arquivos novamente
+cria pastas para cada ano e mês, e move os arquivos respectivos.
